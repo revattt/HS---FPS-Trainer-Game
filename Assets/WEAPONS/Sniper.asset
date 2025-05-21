@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b40ae254f1ac4a42a50903777ce533b, type: 3}
+  m_Name: Sniper
+  m_EditorClassIdentifier: 
+  weaponName: Sniper
+  weaponPrefab: {fileID: 4849583878743944794, guid: 364fe83022f59844ca65afb69ebeaa41, type: 3}
+  weaponAnimator: {fileID: 0}
+  fireRate: 1
+  shootingRange: 50
+  shootSound: {fileID: 8300000, guid: 070be106b59e6724c9e0b2a880873a80, type: 3}
+  muzzleFlashPrefab: {fileID: 0}
